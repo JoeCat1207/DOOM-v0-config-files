@@ -1,0 +1,18 @@
+DOOM V0.1
+  -FLY Gemini v2
+  -Dragon HF (0.4mm plated copper nozzle)
+  -Orbiter v2 with Mini AS mod
+  -CNC parts w/ some Esun ABS+ parts
+  -Hiwin rails (def not genuine lol)
+  -Leadshine motors (Pretty much no name)
+  -Mostly prints ABS+
+  
+This is the config file for "Craig" my 9th printer and is a doomed out v0.1
+
+THIS IS IMPORTANT PLEASE READ:
+  -Leadshine motors are rated at 2a and I have it set to 1.4a, this may damage your motors.
+  -The Orbiter v2 has different run_current and rotation_distance than the miniAB
+  -The Fly Gemini v2 is not a SKR Mini e3 and does not have the same pinout.
+  -This is for me being dumb and losing random stuff
+  
+  
